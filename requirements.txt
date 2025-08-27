@@ -8,3 +8,4 @@ numpy
 matplotlib
 fpdf
 requests
+gunicorn
