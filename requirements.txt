@@ -1,0 +1,10 @@
+flask
+tensorflow
+torch
+torchvision
+pillow
+numpy
+opencv-python
+matplotlib
+fpdf
+requests
